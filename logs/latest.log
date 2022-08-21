@@ -1,25 +1,25 @@
-[05:09:51] [ServerMain/INFO]: Building unoptimized datafixer
-[05:09:52] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[05:09:53] [ServerMain/INFO]: Loaded 7 recipes
-[05:09:53] [ServerMain/INFO]: Loaded 1179 advancements
-[05:09:54] [Server thread/INFO]: Starting minecraft server version 1.19
-[05:09:54] [Server thread/INFO]: Loading properties
-[05:09:54] [Server thread/INFO]: Default game type: SURVIVAL
-[05:09:54] [Server thread/INFO]: Generating keypair
-[05:09:54] [Server thread/INFO]: Starting Minecraft server on 10.243.62.13:25565
-[05:09:54] [Server thread/INFO]: Using default channel type
-[05:09:54] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
-[05:09:54] [Server thread/WARN]: The exception was: java.net.BindException: Cannot assign requested address: bind
-[05:09:54] [Server thread/WARN]: Perhaps a server is already running on that port?
-[05:09:54] [Server thread/ERROR]: Encountered an unexpected exception
+[05:10:24] [ServerMain/INFO]: Building unoptimized datafixer
+[05:10:25] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[05:10:26] [ServerMain/INFO]: Loaded 7 recipes
+[05:10:27] [ServerMain/INFO]: Loaded 1179 advancements
+[05:10:27] [Server thread/INFO]: Starting minecraft server version 1.19
+[05:10:27] [Server thread/INFO]: Loading properties
+[05:10:27] [Server thread/INFO]: Default game type: SURVIVAL
+[05:10:27] [Server thread/INFO]: Generating keypair
+[05:10:27] [Server thread/INFO]: Starting Minecraft server on 10.243.62.13:25565
+[05:10:27] [Server thread/INFO]: Using default channel type
+[05:10:27] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[05:10:27] [Server thread/WARN]: The exception was: java.net.BindException: Cannot assign requested address: bind
+[05:10:27] [Server thread/WARN]: Perhaps a server is already running on that port?
+[05:10:27] [Server thread/ERROR]: Encountered an unexpected exception
 java.lang.IllegalStateException: Failed to initialize server
 	at net.minecraft.server.MinecraftServer.v(SourceFile:678) ~[server-1.19.jar:?]
 	at net.minecraft.server.MinecraftServer.a(SourceFile:258) ~[server-1.19.jar:?]
 	at java.lang.Thread.run(Thread.java:833) [?:?]
-[05:09:54] [Server thread/ERROR]: This crash report has been saved to: D:\Minecraft server\Minecraft-Server-1.19\.\crash-reports\crash-2022-08-22_05.09.54-server.txt
-[05:09:54] [Server thread/INFO]: Stopping server
-[05:09:54] [Server thread/INFO]: Saving worlds
-[05:09:54] [Server thread/ERROR]: Exception stopping the server
+[05:10:28] [Server thread/ERROR]: This crash report has been saved to: D:\Minecraft server\Minecraft-Server-1.19\.\crash-reports\crash-2022-08-22_05.10.28-server.txt
+[05:10:28] [Server thread/INFO]: Stopping server
+[05:10:28] [Server thread/INFO]: Saving worlds
+[05:10:28] [Server thread/ERROR]: Exception stopping the server
 java.lang.NullPointerException: Cannot invoke "afo.p_()" because "$$5" is null
 	at net.minecraft.server.MinecraftServer.a(SourceFile:532) ~[server-1.19.jar:?]
 	at net.minecraft.server.MinecraftServer.s(SourceFile:593) ~[server-1.19.jar:?]
