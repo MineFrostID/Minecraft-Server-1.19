@@ -1,96 +1,309 @@
-[22:41:24] [ServerMain/INFO]: Building unoptimized datafixer
-[22:41:24] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22:41:25] [ServerMain/INFO]: Loaded 7 recipes
-[22:41:26] [ServerMain/INFO]: Loaded 1179 advancements
-[22:41:26] [Server thread/INFO]: Starting minecraft server version 1.19
-[22:41:26] [Server thread/INFO]: Loading properties
-[22:41:26] [Server thread/INFO]: Default game type: SURVIVAL
-[22:41:26] [Server thread/INFO]: Generating keypair
-[22:41:26] [Server thread/INFO]: Starting Minecraft server on 10.243.62.13:25565
-[22:41:26] [Server thread/INFO]: Using default channel type
-[22:41:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:41:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:41:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:41:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:41:26] [Server thread/INFO]: Preparing level "world"
-[22:41:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:41:29] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[22:41:29] [Worker-Main-6/INFO]: Preparing spawn area: 0%
-[22:41:29] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[22:41:29] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[22:41:29] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[22:41:29] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[22:41:30] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[22:41:30] [Worker-Main-1/INFO]: Preparing spawn area: 50%
-[22:41:30] [Server thread/INFO]: Time elapsed: 3823 ms
-[22:41:30] [Server thread/INFO]: Done (3.989s)! For help, type "help"
-[22:41:39] [Server thread/INFO]: MineFrostId[/10.243.62.13:60632] logged in with entity id 114 at (-374.96357150025085, 64.0, 106.36391702004923)
-[22:41:39] [Server thread/INFO]: MineFrostId joined the game
-[22:41:42] [Server thread/INFO]: BANAN[/10.243.124.249:50299] logged in with entity id 399 at (-390.4198129781927, 64.1863679808445, 103.38728910896923)
-[22:41:42] [Server thread/INFO]: BANAN joined the game
-[22:42:14] [Server thread/INFO]: BANAN lost connection: Disconnected
-[22:42:14] [Server thread/INFO]: BANAN left the game
-[22:42:29] [Server thread/INFO]: BANAN[/10.243.124.249:50349] logged in with entity id 617 at (-390.4198129781927, 64.0, 103.38728910896923)
-[22:42:29] [Server thread/INFO]: BANAN joined the game
-[22:43:02] [Server thread/INFO]: BANAN lost connection: Disconnected
-[22:43:02] [Server thread/INFO]: BANAN left the game
-[22:43:03] [Server thread/INFO]: BANAN[/10.243.124.249:59413] logged in with entity id 678 at (-390.4198129781927, 64.0, 103.38728910896923)
-[22:43:03] [Server thread/INFO]: BANAN joined the game
-[22:43:24] [Server thread/INFO]: BANAN lost connection: Disconnected
-[22:43:24] [Server thread/INFO]: BANAN left the game
-[22:43:24] [Server thread/INFO]: BANAN[/10.243.124.249:59430] logged in with entity id 709 at (-390.4198129781927, 64.0, 103.38728910896923)
-[22:43:24] [Server thread/INFO]: BANAN joined the game
-[22:44:15] [Server thread/INFO]: BANAN lost connection: Disconnected
-[22:44:15] [Server thread/INFO]: BANAN left the game
-[22:44:23] [Server thread/INFO]: BANAN[/10.243.124.249:59517] logged in with entity id 917 at (-390.4198129781927, 64.0, 103.38728910896923)
-[22:44:23] [Server thread/INFO]: BANAN joined the game
-[22:44:37] [Server thread/INFO]: BANAN lost connection: Disconnected
-[22:44:37] [Server thread/INFO]: BANAN left the game
-[22:49:54] [Server thread/INFO]: BANAN[/10.243.124.249:50717] logged in with entity id 1606 at (-390.4198129781927, 64.0, 103.38728910896923)
-[22:49:54] [Server thread/INFO]: BANAN joined the game
-[22:50:28] [Server thread/INFO]: BANAN lost connection: Disconnected
-[22:50:28] [Server thread/INFO]: BANAN left the game
-[23:10:31] [Server thread/INFO]: BANAN[/10.243.124.249:62687] logged in with entity id 9344 at (-390.4198129781927, 64.0, 103.38728910896923)
-[23:10:31] [Server thread/INFO]: BANAN joined the game
-[23:11:23] [Server thread/INFO]: BANAN lost connection: Timed out
-[23:11:23] [Server thread/INFO]: BANAN left the game
-[23:12:00] [Server thread/INFO]: BANAN[/10.243.124.249:62784] logged in with entity id 10353 at (-390.4198129781927, 64.0, 103.38728910896923)
-[23:12:00] [Server thread/INFO]: BANAN joined the game
-[23:12:00] [Server thread/INFO]: BANAN lost connection: You logged in from another location
-[23:12:00] [Server thread/INFO]: BANAN left the game
-[23:12:00] [Server thread/INFO]: BANAN[/10.243.124.249:62775] logged in with entity id 10359 at (-390.4198129781927, 64.0, 103.38728910896923)
-[23:12:00] [Server thread/INFO]: BANAN joined the game
-[23:12:30] [Server thread/INFO]: BANAN lost connection: Disconnected
-[23:12:30] [Server thread/INFO]: BANAN left the game
-[23:12:51] [Server thread/INFO]: BANAN[/10.243.124.249:62851] logged in with entity id 11057 at (-390.4198129781927, 64.0, 103.38728910896923)
-[23:12:51] [Server thread/INFO]: BANAN joined the game
-[23:13:23] [Server thread/INFO]: BANAN lost connection: Timed out
-[23:13:23] [Server thread/INFO]: BANAN left the game
-[23:13:39] [Server thread/INFO]: BANAN[/10.243.124.249:62906] logged in with entity id 11794 at (-390.4198129781927, 64.0, 103.38728910896923)
-[23:13:39] [Server thread/INFO]: BANAN joined the game
-[23:13:49] [Server thread/WARN]: BANAN moved too quickly! 1.1566693145971954,0.0,10.162844327261084
-[23:14:17] [Server thread/INFO]: Vincent_A[/10.243.199.151:62187] logged in with entity id 12375 at (-410.6014257126432, 63.9375, 112.96420948735252)
-[23:14:17] [Server thread/INFO]: Vincent_A joined the game
-[23:14:35] [Server thread/INFO]: BANAN lost connection: Disconnected
-[23:14:35] [Server thread/INFO]: BANAN left the game
-[23:14:50] [Server thread/INFO]: Vincent_A lost connection: Timed out
-[23:14:50] [Server thread/INFO]: Vincent_A left the game
-[23:14:54] [Server thread/INFO]: Vincent_A[/10.243.199.151:62223] logged in with entity id 12564 at (-410.6014257126432, 63.9375, 112.96420948735252)
-[23:14:54] [Server thread/INFO]: Vincent_A joined the game
-[23:14:55] [Server thread/INFO]: BANAN[/10.243.124.249:50057] logged in with entity id 12977 at (-389.1612842675768, 64.0, 113.28589262022349)
-[23:14:55] [Server thread/INFO]: BANAN joined the game
-[23:15:32] [Server thread/INFO]: BANAN lost connection: Timed out
-[23:15:32] [Server thread/INFO]: BANAN left the game
-[23:15:32] [Server thread/INFO]: Vincent_A lost connection: Disconnected
-[23:15:32] [Server thread/INFO]: Vincent_A left the game
-[23:15:51] [Server thread/INFO]: Vincent_A[/10.243.199.151:62270] logged in with entity id 13249 at (-410.6014257126432, 63.9375, 112.96420948735252)
-[23:15:51] [Server thread/INFO]: Vincent_A joined the game
-[23:15:58] [Server thread/INFO]: Vincent_A was slain by Zombie Villager
-[23:16:24] [Server thread/INFO]: Vincent_A lost connection: Timed out
-[23:16:24] [Server thread/INFO]: Vincent_A left the game
-[23:18:42] [Server thread/INFO]: BANAN[/10.243.124.249:52491] logged in with entity id 14964 at (-389.1612842675768, 64.0, 113.28589262022349)
-[23:18:42] [Server thread/INFO]: BANAN joined the game
-[23:19:37] [Server thread/INFO]: BANAN lost connection: Timed out
-[23:19:37] [Server thread/INFO]: BANAN left the game
-[23:21:21] [Server thread/INFO]: MineFrostId lost connection: Disconnected
-[23:21:21] [Server thread/INFO]: MineFrostId left the game
+[00:01:38] [Server thread/INFO]: MineFrostId lost connection: Disconnected
+[00:01:38] [Server thread/INFO]: MineFrostId left the game
+[00:01:48] [Server thread/INFO]: MineFrostId[/10.243.62.13:57027] logged in with entity id 8463 at (-1615.5874361182027, 63.0, 635.7087797882199)
+[00:01:48] [Server thread/INFO]: MineFrostId joined the game
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 7.528063263958529,0.0,6.640896199364306
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 7.813619186607411,0.0,6.873593320732709
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 8.10832243568666,0.0,7.096377095267712
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 8.411364650273981,0.0,7.309934781068421
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 8.72200605680473,0.0,7.514913140657484
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 9.039569251083321,0.0,7.711922719645145
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 9.363215355963348,0.0,7.902196594247869
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 9.691959580050252,0.0,8.087458875310801
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 10.024663069958024,0.0,8.269788782286184
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 10.36000440651469,0.0,8.451506125476214
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 10.696447502871706,0.0,8.635057265349133
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 11.032210313714813,0.0,8.822907850047102
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 11.365244139037713,0.0,9.017434972889987
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 3.2769051538242113
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 3.459640915868249
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 3.771626305949667
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 4.073272530768463
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 4.364024676373219
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 4.644129955940798
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 4.914509951164746
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 5.1766265895482775
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 5.432354168386155
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 5.683850536201135
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 5.933445425221635
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 6.1835217115940395
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 6.436404394014062
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 7.996173435843048,0.0,6.295409896668502
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 8.260915591256207,0.0,6.580015065039504
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 8.534099840043837,0.0,6.855671759641723
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 8.816572792526813,0.0,7.119884735662652
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 9.10864637545501,0.0,7.370616267895116
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 9.410241996294644,0.0,7.606272596449855
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 9.720872367257016,0.0,7.826347356637996
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 10.039849487630363,0.0,8.031256889290034
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 10.366396282713367,0.0,8.222177408527102
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 10.699691601828135,0.0,8.400885906446774
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 11.038866944370056,0.0,8.569632449650783
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 11.382977615035543,0.0,8.731011356377905
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 11.730957049290282,0.0,8.887852745622865
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 12.08156485079644,0.0,9.043122722714486
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 12.433338382244983,0.0,9.199822159988514
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 12.784551253466589,0.0,9.360890383058006
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 13.133188682598757,0.0,9.529103065756885
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 13.477388061795864,0.0,9.706458397275242
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 13.815489705402342,0.0,9.894321755482565
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 14.14606743774334,0.0,10.093546419012625
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 14.467929732179755,0.0,10.304586635644796
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 14.780117914350058,0.0,10.527584303869105
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 15.082483935762866,0.0,10.762076342260173
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 15.375583873045343,0.0,11.007179411013283
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 15.660549689596792,0.0,11.261705106219154
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 15.938969956089295,0.0,11.524214896735486
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 16.212186946076372,0.0,11.793448593306039
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 16.48075575360417,0.0,12.068709907427774
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 16.74459792676953,0.0,12.349763405726492
+[00:10:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 17.003101460559492,0.0,12.636725455850922
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 17.25519634186685,0.0,12.929946829205221
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 17.49941930645059,0.0,13.22989170266544
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 17.73461229829718,0.0,13.53676046472009
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 17.959887880773294,0.0,13.850557370531646
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 18.17526325166,0.0,14.170927943874688
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 18.381513539912476,0.0,14.497285657959651
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 18.580016948826824,0.0,14.828876569448141
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 18.772621136740554,0.0,15.164795255449178
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 18.96151990399744,0.0,15.503972193164032
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 19.14913200485512,0.0,15.845148077825911
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 19.337988426488437,0.0,16.18684226733842
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 19.53062956546296,0.0,16.52732019894995
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 19.72895302968368,0.0,16.865015729632773
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 19.934332064370437,0.0,17.19855397589913
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 20.14771658288805,0.0,17.526758404573116
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 20.369712851565737,0.0,17.84865337371076
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 20.600659743435244,0.0,18.163448910564114
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 20.840685872210315,0.0,18.470528125610485
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 21.08975574344413,0.0,18.769433722648614
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 21.34770865865221,0.0,19.059851897901524
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 21.614293144151134,0.0,19.341591357891332
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 21.88919334000525,0.0,19.614565048337283
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 22.171716348912014,0.0,19.879397551003194
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 22.46088838975288,0.0,20.13728562432891
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 22.75549959018349,0.0,20.389866701597782
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 23.05411577169025,0.0,20.639095802584222
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 23.35548293108468,0.0,20.886559559903674
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 23.658518957149454,0.0,21.133530935405588
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 23.9623003325039,0.0,21.381020478444952
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 24.266044458137003,0.0,21.62982403039814
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 24.56910109176033,0.0,21.880552700303554
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 24.870932764238432,0.0,22.133670454427033
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 25.171103153955755,0.0,22.389518328170254
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 25.46926830012876,0.0,22.648332862163784
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 25.76515963674251,0.0,22.91027017327059
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 26.058576104758004,0.0,23.17541890689739
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 26.34937374690253,0.0,23.443814110622213
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 26.63746160681785,0.0,23.715444221930397
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 26.922786184418328,0.0,23.990267199393884
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 27.205331558977605,0.0,24.268212093485488
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 27.485110600186545,0.0,24.54918781030983
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 27.762159773843223,0.0,24.833088296262588
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 28.03653431423686,0.0,25.11979704031114
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 28.3083037582212,0.0,25.40919099193627
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 28.57755083719576,0.0,25.701141611824596
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 28.844364385313384,0.0,25.99552046665366
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 29.10884195716858,0.0,26.292197117429225
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 29.370526900717095,0.0,26.59145959612806
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 29.62849520450186,0.0,26.893898257675858
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 29.882004981850514,0.0,27.199924068537996
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 30.130483956223543,0.0,27.509799517030615
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 30.373499733628023,0.0,27.823674598436355
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 30.61074771798212,0.0,28.141607511646498
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 30.84202891006248,0.0,28.463587480815306
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 31.06723216173009,0.0,28.78955193836208
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 31.286324330975276,0.0,29.119397631082506
+[00:10:07] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! 31.30191134387087,0.0,29.45299149481758
+[00:10:47] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.33308278075060116
+[00:10:47] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.318416075068626
+[00:10:47] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.6395550971942612
+[00:10:47] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.5061381307693864
+[00:10:47] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.44055180084819767
+[00:10:47] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.6679682947842593
+[00:12:18] [Server thread/INFO]: MineFrostId lost connection: Disconnected
+[00:12:18] [Server thread/INFO]: MineFrostId left the game
+[00:12:29] [Server thread/INFO]: MineFrostId[/10.243.62.13:60096] logged in with entity id 13322 at (-1328.5866576184724, 67.0, 487.4806251885703)
+[00:12:29] [Server thread/INFO]: MineFrostId joined the game
+[00:13:16] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.41333741950802505
+[00:13:16] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.7812395700107118
+[00:13:16] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.8416901888349209
+[00:13:17] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.5069710285593487
+[00:13:17] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.299952012332767
+[00:13:39] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.298432640513397
+[00:13:39] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.42753450693294326
+[00:13:39] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.5439256002994171
+[00:13:40] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.32727923230614986
+[00:13:40] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.35405495080271976
+[00:13:40] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.396349961907586
+[00:13:40] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.25485593939811224
+[00:14:44] [Server thread/INFO]: Endless_Paradex lost connection: Timed out
+[00:14:44] [Server thread/INFO]: Endless_Paradex left the game
+[00:14:51] [Server thread/INFO]: Endless_Paradex[/10.243.104.90:64707] logged in with entity id 14447 at (-1772.1137441890514, 62.07326432466506, 489.72261614354306)
+[00:14:51] [Server thread/INFO]: Endless_Paradex joined the game
+[00:15:13] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.2807613866001475
+[00:15:13] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.6714281137167291
+[00:15:14] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.6834986937279268
+[00:15:14] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.6951905505280251
+[00:15:14] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.7069763768137705
+[00:15:14] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.7191215669145095
+[00:15:14] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.7319756253403966
+[00:15:14] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.74568884914828
+[00:15:14] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.760497010594122
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -4.920835061269372,0.0,-9.15951395656873
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -5.112543491325596,0.0,-9.510559797707003
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -5.304321371182596,0.0,-9.861569703611053
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -5.49616511793306,0.0,-10.21254542378648
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -5.6880681448863015,0.0,-10.56349037680701
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -5.880024524020428,0.0,-10.914407639388799
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -6.072028920116281,0.0,-11.265299980576401
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -6.2640765314763485,0.0,-11.616169892509845
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -6.4561663986476105,0.0,-11.967017774096348
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -6.648294296048107,0.0,-12.317845828371162
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -6.840456420653936,0.0,-12.668656038065933
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -7.032649349743906,0.0,-13.019450187639052
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -7.224870002868784,0.0,-13.370229883103093
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -7.417115607624282,0.0,-13.720996569869328
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -7.609383668846931,0.0,-14.07175154880781
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -7.801675302963758,0.0,-14.422494146682936
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -7.993988152685006,0.0,-14.773225601601325
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -8.186320096449663,0.0,-15.12394702785889
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -4.996265770602577,0.0,-9.121030830714801
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -5.188702983932899,0.0,-9.471696966809475
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -5.381146854942699,0.0,-9.822359606127236
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -5.573596717863893,0.0,-10.17301909834589
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -5.766051973505228,0.0,-10.523675758175443
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -5.958512082594552,0.0,-10.87432986885483
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -6.150976559786841,0.0,-11.224981685299156
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -6.343444968271797,0.0,-11.575631436931985
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -6.535916914920108,0.0,-11.926279330234536
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -6.7283920459153705,0.0,-12.276925551039824
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -6.920870042822571,0.0,-12.627570266597672
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -7.113350619050607,0.0,-12.978213627432808
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -7.305833516667462,0.0,-13.328855769017594
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -7.4983185035339375,0.0,-13.679496813277012
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -7.690805370725229,0.0,-14.030136869943703
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -7.883293930208765,0.0,-14.380776037776911
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -8.07578401275532,0.0,-14.731414405660018
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -8.268275466058412,0.0,-15.082052053588086
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -8.460768153042409,0.0,-15.4326890535566
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -8.653261950339129,0.0,-15.783325470361547
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -8.84575674691746,0.0,-16.133961362319326
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -9.03825244284917,0.0,-16.484596781914604
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -9.23074894819888,0.0,-16.835231776383694
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -9.42324618202474,0.0,-17.18586638823922
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -9.615744071478957,0.0,-17.536500655742486
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -9.808242550999012,0.0,-17.887134613328783
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -10.000741561578025,0.0,-18.237768291989823
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -10.193241050110146,0.0,-18.588401719618105
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -10.385740968800064,0.0,-18.93903492131693
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -10.561320349281232,0.0,-19.259029003261276
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -10.721523229749891,0.0,-19.551522703406704
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -10.86767225311587,0.0,-19.819364105107184
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -11.000893527628477,0.0,-20.065128110875662
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -11.12213962821943,0.0,-20.291130863985416
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -11.232210224658957,0.0,-20.499442428956286
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -11.330775086814356,0.0,-20.68194776221793
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -11.419481063559488,0.0,-20.841202558379564
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -11.4998475362936,0.0,-20.97956015736912
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -11.57326912391386,0.0,-21.099202643783997
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -11.637681716094448,0.0,-21.21159486430821
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -11.693410558967571,0.0,-21.317216779809655
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -11.721136878613834,0.0,-21.44539615366301
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -11.719419142988954,0.0,-21.590567568659594
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -11.687338211324686,0.0,-21.747060096440237
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -11.624577182607027,0.0,-21.909154025449027
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -11.531482031179166,0.0,-22.071153494833823
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -11.409106744486053,0.0,-22.227481004176184
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -11.259321618803142,0.0,-22.373475374065265
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -11.084518213903266,0.0,-22.50537650361383
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -10.88731660274425,0.0,-22.620972857257925
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -10.67023878605005,0.0,-22.71934148119385
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -10.435532655980069,0.0,-22.800615747643747
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -10.185104359935394,0.0,-22.865767242675133
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -9.920522285289735,0.0,-22.91642703231588
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -9.643065110713223,0.0,-22.95474826394019
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -9.353797928048607,0.0,-22.9832922947881
+[00:15:28] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved too quickly! -9.053663461368387,0.0,-23.00492768145392
+[00:23:52] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.33018763781235805
+[00:27:19] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.3592796871662358
+[00:27:19] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.38503033750419036
+[00:27:19] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.4224610009357548
+[00:27:19] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.4701789046621343
+[00:27:19] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.5268653769156799
+[00:27:19] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.5912727577839405
+[00:27:19] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.6618393986959745
+[00:27:19] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.737949373500669
+[00:27:19] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.8190483486764606
+[00:27:19] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.9049497691406714
+[00:27:19] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.9953835603311063
+[00:29:21] [Server thread/INFO]: MineFrostId lost connection: Disconnected
+[00:29:21] [Server thread/INFO]: MineFrostId left the game
+[00:29:32] [Server thread/INFO]: MineFrostId[/10.243.62.13:51169] logged in with entity id 22586 at (-447.2952653543685, 63.0, 112.18914542143847)
+[00:29:32] [Server thread/INFO]: MineFrostId joined the game
+[00:30:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.25734412839710785
+[00:30:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.3014545973211398
+[00:30:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.35316633213886917
+[00:30:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.4097445020575492
+[00:30:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.46947167543549995
+[00:30:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.5312757163771948
+[00:30:06] [Server thread/WARN]: Boat (vehicle of Endless_Paradex) moved wrongly! 0.5663437858381144
+[00:31:17] [Server thread/WARN]: Endless_Paradex moved too quickly! 7.40770909311982,1.252203340253729,-6.737965341316098
+[00:31:31] [Server thread/WARN]: Endless_Paradex moved too quickly! 2.2166256527689825,0.41999998688697815,9.91828356134448
+[00:33:58] [Server thread/WARN]: Endless_Paradex moved too quickly! 4.539538802267373,-0.41290928041701136,9.242548386625728
+[00:38:23] [Server thread/INFO]: Endless_Paradex lost connection: Timed out
+[00:38:23] [Server thread/INFO]: Endless_Paradex left the game
+[00:38:30] [Server thread/INFO]: Endless_Paradex[/10.243.104.90:54100] logged in with entity id 24301 at (-380.04697539561704, 63.48750001192093, 107.31184041814413)
+[00:38:30] [Server thread/INFO]: Endless_Paradex joined the game
+[00:42:02] [Server thread/INFO]: Endless_Paradex lost connection: Timed out
+[00:42:02] [Server thread/INFO]: Endless_Paradex left the game
+[00:42:02] [Server thread/INFO]: Endless_Paradex[/10.243.104.90:54338] logged in with entity id 24890 at (-351.8700273559166, 50.55000001192093, 108.69330356512832)
+[00:42:02] [Server thread/INFO]: Endless_Paradex joined the game
+[00:42:30] [Server thread/WARN]: Endless_Paradex moved too quickly! -7.404354938397603,7.5,-0.4672324354578308
+[00:43:43] [Server thread/WARN]: Endless_Paradex moved too quickly! -7.454885161270681,7.0,1.0610199291967888
+[00:44:30] [Server thread/WARN]: Endless_Paradex moved too quickly! 0.34159027028357514,1.2491870787446828,-10.12578721810388
+[00:45:32] [Server thread/WARN]: Endless_Paradex moved too quickly! 0.6145674527842857,0.41999998688697815,-9.996034839501576
+[00:46:24] [Server thread/WARN]: Endless_Paradex moved too quickly! 4.267500666154774,0.9031272476744903,-9.255896944392148
+[00:47:02] [Server thread/WARN]: Endless_Paradex moved too quickly! 8.327633173731499,-0.8156999805212024,-5.521511118381682
+[00:50:24] [Server thread/WARN]: Endless_Paradex moved too quickly! 8.643063880514376,1.1767592750642422,-5.291673727975947
+[00:52:38] [Server thread/WARN]: Endless_Paradex was kicked for floating too long!
+[00:52:38] [Server thread/INFO]: Endless_Paradex lost connection: Flying is not enabled on this server
+[00:52:38] [Server thread/INFO]: Endless_Paradex left the game
+[00:52:45] [Server thread/INFO]: Endless_Paradex[/10.243.104.90:54958] logged in with entity id 26983 at (-384.85413000492156, 65.16610926093821, 96.30285600177689)
+[00:52:45] [Server thread/INFO]: Endless_Paradex joined the game
+[00:56:49] [Server thread/WARN]: Endless_Paradex moved too quickly! -2.942390313394526,1.2491870787446828,-9.575588018234868
+[00:56:58] [Server thread/WARN]: Endless_Paradex was kicked for floating too long!
+[00:56:58] [Server thread/INFO]: Endless_Paradex lost connection: Flying is not enabled on this server
+[00:56:58] [Server thread/INFO]: Endless_Paradex left the game
+[00:57:05] [Server thread/INFO]: Endless_Paradex[/10.243.104.90:55227] logged in with entity id 27978 at (-388.3274594971083, 64.7531999805212, 117.83465610759828)
+[00:57:05] [Server thread/INFO]: Endless_Paradex joined the game
+[00:57:26] [Server thread/WARN]: Endless_Paradex moved too quickly! 8.987141315536064,-4.827587080270561,0.7404250070786844
+[01:00:00] [Server thread/WARN]: Endless_Paradex was kicked for floating too long!
+[01:00:00] [Server thread/INFO]: Endless_Paradex lost connection: Flying is not enabled on this server
+[01:00:00] [Server thread/INFO]: Endless_Paradex left the game
+[01:00:32] [Server thread/INFO]: Endless_Paradex[/10.243.104.90:55443] logged in with entity id 28723 at (-394.86992960839467, 65.16610926093821, 100.19861463139723)
+[01:00:32] [Server thread/INFO]: Endless_Paradex joined the game
+[01:11:06] [Server thread/INFO]: BANAN[/10.243.124.249:50437] logged in with entity id 31636 at (-389.1612842675768, 64.0, 113.28589262022349)
+[01:11:06] [Server thread/INFO]: BANAN joined the game
+[01:11:36] [Server thread/INFO]: BANAN lost connection: Disconnected
+[01:11:36] [Server thread/INFO]: BANAN left the game
+[01:11:36] [Server thread/INFO]: BANAN[/10.243.124.249:50442] logged in with entity id 31718 at (-389.1612842675768, 64.0, 113.28589262022349)
+[01:11:36] [Server thread/INFO]: BANAN joined the game
+[01:11:49] [Server thread/INFO]: Endless_Paradex lost connection: Timed out
+[01:11:49] [Server thread/INFO]: Endless_Paradex left the game
+[01:11:49] [Server thread/INFO]: Endless_Paradex[/10.243.104.90:56142] logged in with entity id 31759 at (-348.4090826535074, 52.5, 106.96588515013585)
+[01:11:49] [Server thread/INFO]: Endless_Paradex joined the game
+[01:12:08] [Server thread/INFO]: BANAN lost connection: Disconnected
+[01:12:08] [Server thread/INFO]: BANAN left the game
+[01:12:16] [Server thread/INFO]: BANAN[/10.243.124.249:50542] logged in with entity id 31857 at (-389.1612842675768, 64.0, 113.28589262022349)
+[01:12:16] [Server thread/INFO]: BANAN joined the game
+[01:13:09] [Server thread/INFO]: BANAN lost connection: Disconnected
+[01:13:09] [Server thread/INFO]: BANAN left the game
+[01:14:05] [Server thread/INFO]: BANAN[/10.243.124.249:55885] logged in with entity id 32133 at (-389.1612842675768, 64.0, 113.28589262022349)
+[01:14:06] [Server thread/INFO]: BANAN joined the game
+[01:14:40] [Server thread/INFO]: BANAN lost connection: Timed out
+[01:14:40] [Server thread/INFO]: BANAN left the game
+[01:16:03] [Server thread/INFO]: Endless_Paradex lost connection: Disconnected
+[01:16:03] [Server thread/INFO]: Endless_Paradex left the game
+[01:19:48] [Server thread/INFO]: MineFrostId lost connection: Disconnected
+[01:19:48] [Server thread/INFO]: MineFrostId left the game
