@@ -575,6 +575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2022-08-25 02:30:25 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2022-08-18 23:10:41 +0700"
@@ -608,7 +614,8 @@
       "minecraft:cave_spider": "2022-08-18 23:10:25 +0700",
       "minecraft:piglin": "2022-08-20 02:15:40 +0700",
       "minecraft:enderman": "2022-08-18 23:32:55 +0700",
-      "minecraft:zombie": "2022-08-18 22:59:33 +0700"
+      "minecraft:zombie": "2022-08-18 22:59:33 +0700",
+      "minecraft:drowned": "2022-08-25 03:05:33 +0700"
     },
     "done": false
   },
@@ -810,6 +817,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2022-08-25 02:30:25 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2022-08-22 00:37:21 +0700"
@@ -897,6 +910,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2022-08-20 02:16:19 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2022-08-25 02:09:46 +0700"
     },
     "done": true
   },
@@ -993,6 +1012,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2022-08-20 02:20:38 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2022-08-25 02:09:46 +0700"
     },
     "done": true
   },
@@ -1122,6 +1147,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_the_recipe": "2022-08-25 01:50:54 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2022-08-18 22:55:39 +0700"
@@ -1215,6 +1246,7 @@
       "minecraft:frozen_ocean": "2022-08-24 01:42:49 +0700",
       "minecraft:deep_frozen_ocean": "2022-08-24 01:59:35 +0700",
       "minecraft:ocean": "2022-08-24 01:37:46 +0700",
+      "minecraft:jungle": "2022-08-25 02:09:38 +0700",
       "minecraft:snowy_beach": "2022-08-24 01:58:17 +0700",
       "minecraft:flower_forest": "2022-08-19 01:02:58 +0700",
       "minecraft:old_growth_birch_forest": "2022-08-24 01:23:53 +0700",
@@ -1392,6 +1424,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2022-08-25 02:15:14 +0700"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2022-08-20 02:21:45 +0700",
@@ -1548,6 +1586,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2022-08-18 23:10:41 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2022-08-25 02:59:08 +0700"
     },
     "done": true
   },
@@ -1735,6 +1779,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2022-08-25 02:30:25 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2022-08-20 02:15:14 +0700"
@@ -1750,6 +1800,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2022-08-18 22:58:04 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2022-08-25 02:30:25 +0700"
     },
     "done": true
   },
@@ -2360,6 +2416,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2022-08-25 02:15:14 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2022-08-22 00:37:21 +0700"
@@ -2462,6 +2524,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2022-08-25 02:30:25 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2022-08-19 01:16:02 +0700"
@@ -2549,6 +2617,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2022-08-19 03:38:53 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2022-08-25 02:30:25 +0700"
     },
     "done": true
   },
@@ -2666,6 +2740,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2022-08-25 02:30:25 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2022-08-18 22:58:04 +0700"
@@ -2708,6 +2788,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2022-08-25 02:30:25 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-08-19 02:00:53 +0700"
@@ -2732,6 +2818,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-08-25 02:30:25 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2022-08-19 00:39:44 +0700"
@@ -2753,6 +2845,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2022-08-19 00:20:05 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
+    "criteria": {
+      "has_log": "2022-08-25 02:16:14 +0700"
     },
     "done": true
   },
