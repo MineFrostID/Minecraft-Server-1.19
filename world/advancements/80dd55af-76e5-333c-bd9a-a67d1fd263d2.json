@@ -1635,6 +1635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2022-08-24 15:21:07 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2022-08-19 01:38:23 +0700"
@@ -2298,6 +2304,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:pig": "2022-08-19 00:44:39 +0700",
+      "minecraft:sheep": "2022-08-24 14:59:22 +0700",
       "minecraft:cow": "2022-08-19 00:44:41 +0700"
     },
     "done": false
