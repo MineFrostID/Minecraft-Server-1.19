@@ -1,27 +1,40 @@
-[19:25:27] [ServerMain/INFO]: Building unoptimized datafixer
-[19:25:27] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:25:29] [ServerMain/INFO]: Loaded 7 recipes
-[19:25:29] [ServerMain/INFO]: Loaded 1179 advancements
-[19:25:30] [Server thread/INFO]: Starting minecraft server version 1.19
-[19:25:30] [Server thread/INFO]: Loading properties
-[19:25:30] [Server thread/INFO]: Default game type: SURVIVAL
-[19:25:30] [Server thread/INFO]: Generating keypair
-[19:25:30] [Server thread/INFO]: Starting Minecraft server on 10.243.62.13:25565
-[19:25:30] [Server thread/INFO]: Using default channel type
-[19:25:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:25:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:25:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:25:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:25:30] [Server thread/INFO]: Preparing level "world"
-[19:25:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:25:32] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[19:25:32] [Worker-Main-8/INFO]: Preparing spawn area: 0%
-[19:25:32] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[19:25:32] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[19:25:33] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[19:25:33] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[19:25:34] [Worker-Main-11/INFO]: Preparing spawn area: 4%
-[19:25:34] [Worker-Main-10/INFO]: Preparing spawn area: 8%
-[19:25:35] [Worker-Main-1/INFO]: Preparing spawn area: 90%
-[19:25:35] [Server thread/INFO]: Time elapsed: 4086 ms
-[19:25:35] [Server thread/INFO]: Done (4.295s)! For help, type "help"
+[01:09:05] [ServerMain/INFO]: Building unoptimized datafixer
+[01:09:06] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:09:08] [ServerMain/INFO]: Loaded 7 recipes
+[01:09:08] [ServerMain/INFO]: Loaded 1179 advancements
+[01:09:08] [Server thread/INFO]: Starting minecraft server version 1.19
+[01:09:08] [Server thread/INFO]: Loading properties
+[01:09:08] [Server thread/INFO]: Default game type: SURVIVAL
+[01:09:08] [Server thread/INFO]: Generating keypair
+[01:09:08] [Server thread/INFO]: Starting Minecraft server on 10.243.62.13:25565
+[01:09:09] [Server thread/INFO]: Using default channel type
+[01:09:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:09:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:09:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:09:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:09:09] [Server thread/INFO]: Preparing level "world"
+[01:09:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:09:12] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[01:09:12] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[01:09:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:09:12] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[01:09:12] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[01:09:12] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[01:09:12] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[01:09:12] [Worker-Main-2/INFO]: Preparing spawn area: 24%
+[01:09:13] [Worker-Main-7/INFO]: Preparing spawn area: 84%
+[01:09:13] [Server thread/INFO]: Time elapsed: 4137 ms
+[01:09:13] [Server thread/INFO]: Done (4.353s)! For help, type "help"
+[01:10:57] [Server thread/INFO]: Endless_Paradex[/10.243.62.13:51931] logged in with entity id 117 at (-350.7013485161048, 51.0, 108.10708594569407)
+[01:10:57] [Server thread/INFO]: Endless_Paradex joined the game
+[01:10:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2073ms or 41 ticks behind
+[01:16:19] [Server thread/INFO]: BANAN[/10.243.124.249:55070] logged in with entity id 1334 at (-385.14282038140664, 64.0, 107.59644698799043)
+[01:16:19] [Server thread/INFO]: BANAN joined the game
+[01:17:11] [Server thread/INFO]: BANAN lost connection: Disconnected
+[01:17:11] [Server thread/INFO]: BANAN left the game
+[01:17:11] [Server thread/INFO]: BANAN[/10.243.124.249:55136] logged in with entity id 1430 at (-385.14282038140664, 64.0, 107.59644698799043)
+[01:17:11] [Server thread/INFO]: BANAN joined the game
+[01:17:33] [Server thread/INFO]: BANAN lost connection: Disconnected
+[01:17:33] [Server thread/INFO]: BANAN left the game
+[01:17:38] [Server thread/INFO]: Endless_Paradex lost connection: Disconnected
+[01:17:38] [Server thread/INFO]: Endless_Paradex left the game
