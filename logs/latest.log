@@ -1,140 +1,29 @@
-[00:01:08] [Server thread/INFO]: Endless_Paradex[/10.243.104.90:62673] logged in with entity id 11142 at (-382.7241379866944, 66.5, 103.63975067824862)
-[00:01:08] [Server thread/INFO]: Endless_Paradex joined the game
-[00:03:00] [Server thread/INFO]: Endless_Paradex lost connection: Timed out
-[00:03:00] [Server thread/INFO]: Endless_Paradex left the game
-[00:03:13] [Server thread/INFO]: BANAN lost connection: Timed out
-[00:03:13] [Server thread/INFO]: BANAN left the game
-[00:03:22] [Server thread/INFO]: BANAN[/10.243.124.249:60028] logged in with entity id 11781 at (-336.5, 51.0, 108.91307598237272)
-[00:03:22] [Server thread/INFO]: BANAN joined the game
-[00:03:26] [Server thread/INFO]: Endless_Paradex[/10.243.104.90:62835] logged in with entity id 11801 at (-395.61614841691295, 64.0, 102.58286796922596)
-[00:03:26] [Server thread/INFO]: Endless_Paradex joined the game
-[00:03:41] [Server thread/INFO]: BANAN lost connection: Disconnected
-[00:03:41] [Server thread/INFO]: BANAN left the game
-[00:03:47] [Server thread/INFO]: BANAN[/10.243.124.249:57305] logged in with entity id 11845 at (-336.5, 51.0, 108.91307598237272)
-[00:03:47] [Server thread/INFO]: BANAN joined the game
-[00:06:58] [Server thread/INFO]: Endless_Paradex has completed the challenge [Return to Sender]
-[00:08:28] [Server thread/INFO]: Endless_Paradex lost connection: Timed out
-[00:08:28] [Server thread/INFO]: Endless_Paradex left the game
-[00:09:14] [Server thread/INFO]: Endless_Paradex[/10.243.104.90:57753] logged in with entity id 13557 at (-39.5767306881941, 63.0, 1.5002572606010285)
-[00:09:14] [Server thread/INFO]: Endless_Paradex joined the game
-[00:10:13] [Server thread/INFO]: Vincent_A lost connection: Timed out
-[00:10:13] [Server thread/INFO]: Vincent_A left the game
-[00:10:23] [Server thread/INFO]: Vincent_A[/10.243.199.151:57857] logged in with entity id 14015 at (-361.99900462881516, 64.0, 129.66960835463462)
-[00:10:23] [Server thread/INFO]: Vincent_A joined the game
-[00:10:38] [Server thread/INFO]: Endless_Paradex has made the advancement [Oh Shiny]
-[00:10:45] [Server thread/WARN]: Vincent_A moved too quickly! -10.385153389669256,0.1985063481775029,-0.10492518023764319
-[00:16:26] [Server thread/INFO]: BANAN fell from a high place
-[00:38:21] [Server thread/INFO]: Endless_Paradex has made the advancement [Ol' Betsy]
-[00:42:16] [Server thread/INFO]: BANAN lost connection: Disconnected
-[00:42:16] [Server thread/INFO]: BANAN left the game
-[00:42:37] [Server thread/INFO]: BANAN[/10.243.124.249:57350] logged in with entity id 24621 at (-153.58881408259293, 39.0, -763.7863604334058)
-[00:42:37] [Server thread/INFO]: BANAN joined the game
-[00:52:10] [Server thread/INFO]: Endless_Paradex has made the advancement [A Terrible Fortress]
-[00:52:14] [Server thread/INFO]: BANAN has made the advancement [A Terrible Fortress]
-[00:52:42] [Server thread/INFO]: Endless_Paradex has made the advancement [Into Fire]
-[00:53:05] [Server thread/INFO]: BANAN was slain by Wither Skeleton
-[00:54:24] [Server thread/INFO]: Endless_Paradex has made the advancement [Spooky Scary Skeleton]
-[00:56:19] [Server thread/INFO]: Vincent_A lost connection: Disconnected
-[00:56:19] [Server thread/INFO]: Vincent_A left the game
-[01:07:21] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-841, y=59, z=-645} gt{x=-843, y=59, z=-649}
-[01:11:54] [Server thread/INFO]: Endless_Paradex has completed the challenge [Subspace Bubble]
-[01:11:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3098ms or 61 ticks behind
-[01:13:11] [Server thread/INFO]: <Endless_Paradex> -5748 -35 -5748
-[01:16:56] [Server thread/WARN]: BANAN was kicked for floating too long!
-[01:16:56] [Server thread/INFO]: BANAN lost connection: Flying is not enabled on this server
-[01:16:56] [Server thread/INFO]: BANAN left the game
-[01:17:31] [Server thread/INFO]: BANAN[/10.243.124.249:58337] logged in with entity id 35826 at (-298.3750266672137, 67.24918707874468, -256.56074708478263)
-[01:17:31] [Server thread/INFO]: BANAN joined the game
-[01:26:34] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-522, y=60, z=-694} gt{x=-521, y=60, z=-693}
-[01:29:35] [Server thread/INFO]: <Endless_Paradex> -5748 -35 -5748
-[01:31:59] [Server thread/WARN]: Endless_Paradex moved too quickly! 10.145361097394328,0.0,-0.007948701485588572
-[01:33:16] [Server thread/WARN]: Endless_Paradex moved too quickly! 10.031581406984692,0.0,-0.0209679938878935
-[01:43:36] [Server thread/INFO]: <BANAN> -3150.658/63/-3302.913
-[01:44:25] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -9.254941842947574,0.0,-4.220532790140169
-[01:44:25] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -9.25609829363566,0.0,-4.728569646671076
-[01:54:14] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -1.5999355677372478,0.0,-10.209978974363366
-[02:00:21] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -8.415451520219904,0.0,-6.105032753926935
-[02:00:21] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -8.737867129081678,0.0,-6.341736489611321
-[02:00:21] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -9.060242422247939,0.0,-6.578499136897335
-[02:00:21] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -9.3825814312886,0.0,-6.815314804623085
-[02:00:21] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -9.704887784618222,0.0,-7.052178190742779
-[02:00:21] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -10.027162471656084,0.0,-7.289087609819944
-[02:00:21] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -10.349408659031724,0.0,-7.5260384585571956
-[02:00:21] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -10.671629196712274,0.0,-7.763026593987888
-[02:00:21] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -10.993826649667426,0.0,-8.000048287441132
-[02:00:21] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -11.316003326371174,0.0,-8.237100183114308
-[02:00:21] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -11.638159028295377,0.0,-8.474182349050352
-[02:00:21] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -11.960295852919444,0.0,-8.711291758221705
-[02:00:21] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -12.282415687974208,0.0,-8.9484256863052
-[02:00:21] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -12.60452023241669,0.0,-9.185581681408621
-[02:00:21] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -12.926611015307572,0.0,-9.422757536829522
-[02:00:21] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -13.249098654569025,0.0,-9.659385881089293
-[02:00:21] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -13.572693991340202,0.0,-9.894427300990174
-[02:00:21] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -13.89829204697162,0.0,-10.126439800683329
-[02:01:06] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -2.0093616618842134,0.0,-9.898233193429405
-[02:01:06] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -2.0869473370439664,0.0,-10.280424964688791
-[02:01:06] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -2.1647322068074573,0.0,-10.663597982309511
-[02:01:06] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -2.2426963517100376,0.0,-11.04765412163124
-[02:01:06] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -2.320821844233251,0.0,-11.432505070461957
-[02:01:06] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -2.3990925496118507,0.0,-11.818071347833211
-[02:01:06] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -2.4774939465560237,0.0,-12.204281420873485
-[02:01:06] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -2.55601296590703,0.0,-12.591070909999871
-[02:01:06] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -2.634637845420002,0.0,-12.978381873590479
-[02:01:06] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -2.7133579990777434,0.0,-13.36616216418679
-[02:01:06] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -2.792163899462139,0.0,-13.75436484907641
-[02:01:06] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -2.871046971898977,0.0,-14.142947688819731
-[02:01:06] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -2.949999499182013,0.0,-14.53187266792338
-[02:01:06] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -3.0290145358239897,0.0,-14.921105572442684
-[02:01:06] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -3.1080858308878305,0.0,-15.310615609828346
-[02:01:06] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -3.1872077585303487,0.0,-15.700375066787274
-[02:01:06] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -3.2663752554917664,0.0,-16.090359001356774
-[02:01:06] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -3.34558376483983,0.0,-16.480544965769695
-[02:01:06] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -3.4248291853336923,0.0,-16.87091275703733
-[02:01:06] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -3.504107825859137,0.0,-17.261444192469753
-[02:01:06] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -3.5834163644121872,0.0,-17.652122907646117
-[02:01:06] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -3.6627518111881727,0.0,-18.04293417458939
-[02:01:06] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -3.7421114753651636,0.0,-18.433864738119155
-[02:01:06] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -3.8214929352025138,0.0,-18.824902668573486
-[02:01:06] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -3.9008940111334596,0.0,-19.21603722925829
-[02:01:06] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -3.980312741548005,0.0,-19.607258757147974
-[02:01:06] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -4.05974736099779,0.0,-19.998558555519594
-[02:01:06] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -4.13919628057829,0.0,-20.38992879732359
-[02:01:06] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -4.218658070276433,0.0,-20.781362438214273
-[02:01:06] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -2.366134129011698,0.0,-11.655721442350114
-[02:01:06] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -2.4456179266098843,0.0,-12.047263495675907
-[02:01:06] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -2.525111106523582,0.0,-12.438851766933112
-[02:01:06] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -2.6046127305207847,0.0,-12.830481634327043
-[02:01:06] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -2.684121954192051,0.0,-13.222148938242754
-[02:01:06] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -2.7636380175708837,0.0,-13.613849935027247
-[02:01:06] [Server thread/WARN]: Boat (vehicle of BANAN) moved too quickly! -2.843160236685435,0.0,-14.005581255392826
-[02:05:06] [Server thread/INFO]: BANAN lost connection: Disconnected
-[02:05:06] [Server thread/INFO]: BANAN left the game
-[02:05:39] [Server thread/INFO]: BANAN[/10.243.124.249:54156] logged in with entity id 70088 at (-4858.2887189451485, 76.0, -4707.500423240198)
-[02:05:39] [Server thread/INFO]: BANAN joined the game
-[02:05:56] [Server thread/INFO]: <Endless_Paradex> -5748 -35 -5748
-[02:08:04] [Server thread/WARN]: BANAN moved too quickly! -6.540922014341959,0.0,-7.764718116553922
-[02:10:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3434ms or 68 ticks behind
-[02:10:39] [Server thread/WARN]: Endless_Paradex moved too quickly! 10.04510959316815,1.2000000476837158,0.03654638625019402
-[02:16:59] [Server thread/WARN]: Endless_Paradex moved too quickly! -7.441286568155988,-0.41999998688697815,6.777856676525829
-[02:17:06] [Server thread/WARN]: Endless_Paradex moved too quickly! -5.830872030294529,0.0,8.376270944757138
-[02:28:51] [Server thread/WARN]: Endless_Paradex moved too quickly! -5.421922579096282,-1.1661092609382138,-8.374037372969724
-[02:31:10] [Server thread/INFO]: <Endless_Paradex> -5749 -5654 -35
-[02:33:29] [Server thread/INFO]: MineFrostId[/10.243.62.13:57913] logged in with entity id 82893 at (-372.8691759466103, 66.5, 123.10562321109082)
-[02:33:29] [Server thread/INFO]: MineFrostId joined the game
-[02:37:52] [Server thread/INFO]: MineFrostId has made the advancement [A Terrible Fortress]
-[02:43:01] [Server thread/INFO]: Endless_Paradex lost connection: Disconnected
-[02:43:01] [Server thread/INFO]: Endless_Paradex left the game
-[02:44:52] [Server thread/INFO]: Endless_Paradex[/10.243.104.90:56314] logged in with entity id 87762 at (-63.285645080133044, 27.37944766470872, -298.4627243552453)
-[02:44:52] [Server thread/INFO]: Endless_Paradex joined the game
-[02:44:55] [Server thread/INFO]: Endless_Paradex tried to swim in lava
-[02:45:15] [Server thread/INFO]: Endless_Paradex lost connection: Disconnected
-[02:45:15] [Server thread/INFO]: Endless_Paradex left the game
-[02:45:56] [Server thread/INFO]: Endless_Paradex[/10.243.104.90:61043] logged in with entity id 88344 at (-63.36212212724075, 27.01437499530613, -298.59203072069664)
-[02:45:56] [Server thread/INFO]: Endless_Paradex joined the game
-[02:46:22] [Server thread/INFO]: BANAN has completed the challenge [Subspace Bubble]
-[02:47:40] [Server thread/INFO]: Endless_Paradex lost connection: Disconnected
-[02:47:40] [Server thread/INFO]: Endless_Paradex left the game
-[02:48:25] [Server thread/INFO]: MineFrostId lost connection: Disconnected
-[02:48:25] [Server thread/INFO]: MineFrostId left the game
-[02:49:15] [Server thread/INFO]: BANAN lost connection: Disconnected
-[02:49:15] [Server thread/INFO]: BANAN left the game
+[14:46:10] [ServerMain/INFO]: Building unoptimized datafixer
+[14:46:11] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[14:46:13] [ServerMain/INFO]: Loaded 7 recipes
+[14:46:13] [ServerMain/INFO]: Loaded 1179 advancements
+[14:46:13] [Server thread/INFO]: Starting minecraft server version 1.19
+[14:46:13] [Server thread/INFO]: Loading properties
+[14:46:13] [Server thread/INFO]: Default game type: SURVIVAL
+[14:46:13] [Server thread/INFO]: Generating keypair
+[14:46:13] [Server thread/INFO]: Starting Minecraft server on 172.24.104.90:25565
+[14:46:14] [Server thread/INFO]: Using default channel type
+[14:46:14] [Server thread/WARN]: **** FAILED TO BIND TO PORT!
+[14:46:14] [Server thread/WARN]: The exception was: java.net.BindException: Cannot assign requested address: bind
+[14:46:14] [Server thread/WARN]: Perhaps a server is already running on that port?
+[14:46:14] [Server thread/ERROR]: Encountered an unexpected exception
+java.lang.IllegalStateException: Failed to initialize server
+	at net.minecraft.server.MinecraftServer.v(SourceFile:678) ~[server-1.19.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:258) ~[server-1.19.jar:?]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
+[14:46:14] [Server thread/ERROR]: This crash report has been saved to: D:\Minecraft server\Minecraft-Server-1.19\.\crash-reports\crash-2022-08-24_14.46.14-server.txt
+[14:46:14] [Server thread/INFO]: Stopping server
+[14:46:14] [Server thread/INFO]: Saving worlds
+[14:46:14] [Server thread/ERROR]: Exception stopping the server
+java.lang.NullPointerException: Cannot invoke "afo.p_()" because "$$5" is null
+	at net.minecraft.server.MinecraftServer.a(SourceFile:532) ~[server-1.19.jar:?]
+	at net.minecraft.server.MinecraftServer.s(SourceFile:593) ~[server-1.19.jar:?]
+	at aep.s(SourceFile:547) ~[server-1.19.jar:?]
+	at net.minecraft.server.MinecraftServer.v(SourceFile:697) ~[server-1.19.jar:?]
+	at net.minecraft.server.MinecraftServer.a(SourceFile:258) ~[server-1.19.jar:?]
+	at java.lang.Thread.run(Thread.java:833) [?:?]
