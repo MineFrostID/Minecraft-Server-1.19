@@ -1,84 +1,25 @@
-[00:23:41] [ServerMain/INFO]: Building unoptimized datafixer
-[00:23:42] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[00:23:44] [ServerMain/INFO]: Loaded 7 recipes
-[00:23:44] [ServerMain/INFO]: Loaded 1179 advancements
-[00:23:45] [Server thread/INFO]: Starting minecraft server version 1.19
-[00:23:45] [Server thread/INFO]: Loading properties
-[00:23:45] [Server thread/INFO]: Default game type: SURVIVAL
-[00:23:45] [Server thread/INFO]: Generating keypair
-[00:23:45] [Server thread/INFO]: Starting Minecraft server on 10.243.62.13:25565
-[00:23:45] [Server thread/INFO]: Using default channel type
-[00:23:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:23:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:23:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:23:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:23:45] [Server thread/INFO]: Preparing level "world"
-[00:23:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:23:48] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[00:23:48] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[00:23:48] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:23:48] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[00:23:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:23:48] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[00:23:48] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:23:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:23:49] [Worker-Main-5/INFO]: Preparing spawn area: 3%
-[00:23:50] [Worker-Main-3/INFO]: Preparing spawn area: 55%
-[00:23:50] [Server thread/INFO]: Time elapsed: 4988 ms
-[00:23:50] [Server thread/INFO]: Done (5.256s)! For help, type "help"
-[00:25:20] [Server thread/INFO]: Vincent_A[/10.243.199.151:61892] logged in with entity id 113 at (-372.30000001192093, 64.0, 71.41205853537454)
-[00:25:20] [Server thread/INFO]: Vincent_A joined the game
-[00:26:16] [Server thread/INFO]: Vincent_A lost connection: Disconnected
-[00:26:16] [Server thread/INFO]: Vincent_A left the game
-[00:28:09] [Server thread/INFO]: Vincent_A[/10.243.199.151:56269] logged in with entity id 533 at (-372.30000001192093, 64.0, 71.41497185624226)
-[00:28:09] [Server thread/INFO]: Vincent_A joined the game
-[00:32:33] [Server thread/INFO]: Endless_Paradex[/10.243.104.90:59181] logged in with entity id 1549 at (-352.8166074543936, 65.25220334025373, 63.41417170656795)
-[00:32:33] [Server thread/INFO]: Endless_Paradex joined the game
-[00:33:34] [Server thread/INFO]: Endless_Paradex lost connection: Disconnected
-[00:33:34] [Server thread/INFO]: Endless_Paradex left the game
-[00:34:10] [Server thread/INFO]: Endless_Paradex[/10.243.104.90:59305] logged in with entity id 1830 at (-352.8166074543936, 65.25220334025373, 63.41417170656795)
-[00:34:10] [Server thread/INFO]: Endless_Paradex joined the game
-[00:35:10] [Server thread/INFO]: Endless_Paradex lost connection: Disconnected
-[00:35:10] [Server thread/INFO]: Endless_Paradex left the game
-[00:35:36] [Server thread/INFO]: Endless_Paradex[/10.243.104.90:59405] logged in with entity id 2067 at (-352.8166074543936, 65.25220334025373, 63.41417170656795)
-[00:35:36] [Server thread/INFO]: Endless_Paradex joined the game
-[00:36:27] [Server thread/INFO]: Endless_Paradex lost connection: Disconnected
-[00:36:27] [Server thread/INFO]: Endless_Paradex left the game
-[00:36:45] [Server thread/INFO]: Endless_Paradex[/10.243.104.90:59499] logged in with entity id 2276 at (-352.8166074543936, 65.25220334025373, 63.41417170656795)
-[00:36:45] [Server thread/INFO]: Endless_Paradex joined the game
-[00:37:19] [Server thread/INFO]: Endless_Paradex lost connection: Disconnected
-[00:37:19] [Server thread/INFO]: Endless_Paradex left the game
-[00:37:48] [Server thread/INFO]: Endless_Paradex[/10.243.104.90:59612] logged in with entity id 2480 at (-352.8166074543936, 65.25220334025373, 63.41417170656795)
-[00:37:48] [Server thread/INFO]: Endless_Paradex joined the game
-[00:38:10] [Server thread/INFO]: Vincent_A lost connection: Disconnected
-[00:38:10] [Server thread/INFO]: Vincent_A left the game
-[00:38:16] [Server thread/INFO]: Endless_Paradex lost connection: Disconnected
-[00:38:16] [Server thread/INFO]: Endless_Paradex left the game
-[00:38:22] [Server thread/INFO]: Endless_Paradex[/10.243.104.90:59661] logged in with entity id 2581 at (-352.8166074543936, 64.10709663960209, 63.41417170656795)
-[00:38:22] [Server thread/INFO]: Endless_Paradex joined the game
-[00:38:38] [Server thread/INFO]: Vincent_A[/10.243.199.151:55193] logged in with entity id 2901 at (-400.4261819174639, 64.0, 95.34623924245102)
-[00:38:38] [Server thread/INFO]: Vincent_A joined the game
-[00:39:22] [Server thread/INFO]: Endless_Paradex lost connection: Disconnected
-[00:39:22] [Server thread/INFO]: Endless_Paradex left the game
-[00:40:09] [Server thread/INFO]: Endless_Paradex[/10.243.104.90:59775] logged in with entity id 3256 at (-352.8166074543936, 64.02869663807621, 63.41417170656795)
-[00:40:09] [Server thread/INFO]: Endless_Paradex joined the game
-[00:40:36] [Server thread/INFO]: BANAN[/10.243.124.249:60238] logged in with entity id 3384 at (-368.2831642969426, 69.0, 112.13511553515303)
-[00:40:36] [Server thread/INFO]: BANAN joined the game
-[00:41:00] [Server thread/INFO]: Endless_Paradex lost connection: Disconnected
-[00:41:00] [Server thread/INFO]: Endless_Paradex left the game
-[00:41:08] [Server thread/INFO]: BANAN lost connection: Disconnected
-[00:41:08] [Server thread/INFO]: BANAN left the game
-[00:41:38] [Server thread/INFO]: BANAN[/10.243.124.249:63558] logged in with entity id 3630 at (-368.2831642969426, 69.0, 112.13511553515303)
-[00:41:38] [Server thread/INFO]: BANAN joined the game
-[00:41:38] [Server thread/INFO]: Endless_Paradex[/10.243.104.90:59879] logged in with entity id 3653 at (-352.8166074543936, 64.02869663807621, 63.41417170656795)
-[00:41:38] [Server thread/INFO]: Endless_Paradex joined the game
-[00:41:57] [Server thread/INFO]: BANAN lost connection: Disconnected
-[00:41:57] [Server thread/INFO]: BANAN left the game
-[00:42:11] [Server thread/INFO]: Endless_Paradex lost connection: Disconnected
-[00:42:11] [Server thread/INFO]: Endless_Paradex left the game
-[00:43:27] [Server thread/INFO]: BANAN[/10.243.124.249:63687] logged in with entity id 4058 at (-368.2831642969426, 69.0, 112.13511553515303)
-[00:43:27] [Server thread/INFO]: BANAN joined the game
-[00:44:27] [Server thread/INFO]: BANAN lost connection: Disconnected
-[00:44:27] [Server thread/INFO]: BANAN left the game
-[00:45:33] [Server thread/INFO]: Vincent_A lost connection: Disconnected
-[00:45:33] [Server thread/INFO]: Vincent_A left the game
+[01:02:36] [ServerMain/INFO]: Building unoptimized datafixer
+[01:02:36] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:02:37] [ServerMain/INFO]: Loaded 7 recipes
+[01:02:37] [ServerMain/INFO]: Loaded 1179 advancements
+[01:02:38] [Server thread/INFO]: Starting minecraft server version 1.19
+[01:02:38] [Server thread/INFO]: Loading properties
+[01:02:38] [Server thread/INFO]: Default game type: SURVIVAL
+[01:02:38] [Server thread/INFO]: Generating keypair
+[01:02:38] [Server thread/INFO]: Starting Minecraft server on 10.243.62.13:25565
+[01:02:38] [Server thread/INFO]: Using default channel type
+[01:02:38] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:02:38] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:02:38] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:02:38] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:02:38] [Server thread/INFO]: Preparing level "world"
+[01:02:38] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:02:40] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[01:02:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:02:40] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[01:02:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[01:02:40] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[01:02:41] [Worker-Main-6/INFO]: Preparing spawn area: 4%
+[01:02:41] [Worker-Main-5/INFO]: Preparing spawn area: 84%
+[01:02:42] [Server thread/INFO]: Time elapsed: 3103 ms
+[01:02:42] [Server thread/INFO]: Done (3.254s)! For help, type "help"
