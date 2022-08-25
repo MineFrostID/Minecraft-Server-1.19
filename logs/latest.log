@@ -1,124 +1,84 @@
-[01:19:11] [ServerMain/INFO]: Building unoptimized datafixer
-[01:19:12] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01:19:13] [ServerMain/INFO]: Loaded 7 recipes
-[01:19:13] [ServerMain/INFO]: Loaded 1179 advancements
-[01:19:13] [Server thread/INFO]: Starting minecraft server version 1.19
-[01:19:13] [Server thread/INFO]: Loading properties
-[01:19:13] [Server thread/INFO]: Default game type: SURVIVAL
-[01:19:14] [Server thread/INFO]: Generating keypair
-[01:19:14] [Server thread/INFO]: Starting Minecraft server on 10.243.62.13:25565
-[01:19:14] [Server thread/INFO]: Using default channel type
-[01:19:14] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:19:14] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:19:14] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:19:14] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:19:14] [Server thread/INFO]: Preparing level "world"
-[01:19:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:19:17] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[01:19:17] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[01:19:17] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[01:19:17] [Worker-Main-7/INFO]: Preparing spawn area: 0%
-[01:19:17] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[01:19:17] [Worker-Main-9/INFO]: Preparing spawn area: 0%
-[01:19:17] [Worker-Main-5/INFO]: Preparing spawn area: 0%
-[01:19:17] [Worker-Main-6/INFO]: Preparing spawn area: 39%
-[01:19:18] [Server thread/INFO]: Time elapsed: 3998 ms
-[01:19:18] [Server thread/INFO]: Done (4.172s)! For help, type "help"
-[01:19:26] [Server thread/INFO]: MineFrostId[/10.243.62.13:61814] logged in with entity id 117 at (-364.8128906418555, 64.0, 73.83366711797524)
-[01:19:26] [Server thread/INFO]: MineFrostId joined the game
-[01:27:53] [Server thread/INFO]: Endless_Paradex[/10.243.104.90:53074] logged in with entity id 2089 at (-382.333822218092, 66.5, 109.25387195017895)
-[01:27:53] [Server thread/INFO]: Endless_Paradex joined the game
-[01:29:40] [Server thread/INFO]: <Endless_Paradex> Ini target kita ngapain?
-[01:29:50] [Server thread/INFO]: <Endless_Paradex> Cari Stronghold?
-[01:30:32] [Server thread/INFO]: <MineFrostId> niatnya exlpore sih, cuman gk enak kalo cuman berdua
-[01:30:54] [Server thread/INFO]: <Endless_Paradex> Ohh cari take berarti
-[01:31:04] [Server thread/INFO]: <MineFrostId> yes
-[01:31:31] [Server thread/INFO]: <Endless_Paradex> Okay
-[01:31:38] [Server thread/INFO]: <Endless_Paradex> Tunggu si banan ini berarti
-[01:33:18] [Server thread/INFO]: <Endless_Paradex> Bisa bantu aku trade mending ?
-[01:33:24] [Server thread/INFO]: <MineFrostId> di?
-[01:34:31] [Server thread/WARN]: Endless_Paradex moved too quickly! 8.667347109820355,-5.578400001525878,0.1517197892052593
-[01:36:46] [Server thread/INFO]: MineFrostId has made the advancement [What a Deal!]
-[01:37:12] [Server thread/INFO]: <MineFrostId> emerald udah 39 di chest
-[01:37:21] [Server thread/INFO]: <Endless_Paradex> Mau mending?
-[01:37:39] [Server thread/INFO]: <MineFrostId> gk tau mau dipasang dimana
-[01:37:41] [Server thread/INFO]: <MineFrostId> entar aja
-[01:37:44] [Server thread/INFO]: <Endless_Paradex> Pickaxe bisa
-[01:38:00] [Server thread/INFO]: <Endless_Paradex> Pickaxe silk touch belom ada kita
-[01:39:54] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-406, y=64, z=105} gt{x=-406, y=63, z=106}
-[01:39:54] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-406, y=64, z=105} gt{x=-406, y=63, z=106}
-[01:42:27] [Server thread/INFO]: <Endless_Paradex> Si banan gimana?
-[01:42:32] [Server thread/INFO]: <Endless_Paradex> Gak bisa masuk?
-[01:42:38] [Server thread/INFO]: <MineFrostId> masih gk bisa
-[01:42:55] [Server thread/INFO]: <Endless_Paradex> Coba masuk yang aku punya itu
-[01:43:05] [Server thread/INFO]: <Endless_Paradex> Yang WRYYYYY
-[01:45:21] [Server thread/INFO]: BANAN[/10.243.124.249:65534] logged in with entity id 5731 at (-385.14282038140664, 64.0, 107.59644698799043)
-[01:45:21] [Server thread/INFO]: BANAN joined the game
-[01:45:55] [Server thread/INFO]: <Endless_Paradex> Masuk ternyata
-[01:47:07] [Server thread/INFO]: <BANAN> :>
-[01:47:16] [Server thread/INFO]: <MineFrostId> tidur
-[01:48:22] [Server thread/INFO]: <BANAN> Endless_Paradex22
-[01:49:55] [Server thread/INFO]: <Endless_Paradex> LoL
-[01:50:16] [Server thread/INFO]: <MineFrostId> lah mending?
-[01:52:15] [Server thread/INFO]: <MineFrostId> yok jalan
-[01:54:42] [Server thread/WARN]: BANAN moved too quickly! -3.9750765885889905,0.0,-9.407561852318196
-[01:59:27] [Server thread/INFO]: Endless_Paradex lost connection: Timed out
-[01:59:27] [Server thread/INFO]: Endless_Paradex left the game
-[01:59:29] [Server thread/INFO]: Endless_Paradex[/10.243.104.90:58324] logged in with entity id 10449 at (-1081.0375502972968, 88.0, -1015.6244822543327)
-[01:59:29] [Server thread/INFO]: Endless_Paradex joined the game
-[01:59:37] [Server thread/INFO]: <MineFrostId> endless?
-[02:00:47] [Server thread/INFO]: <Endless_Paradex> Berapa dmg tuh?
-[02:02:33] [Server thread/INFO]: <Endless_Paradex> Sumpah ?
-[02:03:09] [Server thread/INFO]: <BANAN> ndless
-[02:03:14] [Server thread/INFO]: <BANAN> beli baling baling di mana?
-[02:04:17] [Server thread/INFO]: <Endless_Paradex> Gak bisa
-[02:04:19] [Server thread/INFO]: <MineFrostId> kok
-[02:04:20] [Server thread/INFO]: <MineFrostId> asdsdf ajkhfgkwf
-[02:04:23] [Server thread/INFO]: <Endless_Paradex> 1.19
-[02:06:59] [Server thread/INFO]: <Endless_Paradex> di dorong ke aku dong
-[02:10:35] [Server thread/INFO]: <MineFrostId> gw nyari bambu dulu
-[02:10:40] [Server thread/INFO]: <MineFrostId> kumpulin kayu sama sapling aja
-[02:12:41] [Server thread/INFO]: MineFrostId has made the advancement [Best Friends Forever]
-[02:12:46] [Server thread/WARN]: BANAN moved too quickly! -6.226555663663021,1.916922182193531,7.674225122060761
-[02:14:59] [Server thread/INFO]: <Endless_Paradex> Anjay burung
-[02:17:56] [Server thread/INFO]: <Endless_Paradex> LoL
-[02:18:12] [Server thread/INFO]: <MineFrostId> akwoaowkwoawk
-[02:18:37] [Server thread/INFO]: <Endless_Paradex> Ketemu takenya?
-[02:18:41] [Server thread/INFO]: <MineFrostId> udah 48
-[02:19:09] [Server thread/INFO]: <MineFrostId> pulang yok
-[02:19:21] [Server thread/INFO]: <Endless_Paradex> Okay
-[02:19:26] [Server thread/INFO]: <MineFrostId> koordinat?
-[02:19:34] [Server thread/INFO]: <Endless_Paradex> Forgor
-[02:19:38] [Server thread/INFO]: <MineFrostId> bentar
-[02:19:39] [Server thread/INFO]: <Endless_Paradex> Tapi aku tau arahnya
-[02:19:43] [Server thread/INFO]: <MineFrostId> gw buka screenshoot
-[02:20:05] [Server thread/INFO]: <BANAN> -383/64/107
-[02:41:15] [Server thread/WARN]: BANAN moved too quickly! 3.600707846037052,-0.5292232112077642,-9.466379536149702
-[02:56:40] [Server thread/INFO]: BANAN lost connection: Disconnected
-[02:56:40] [Server thread/INFO]: BANAN left the game
-[02:56:48] [Server thread/INFO]: BANAN[/10.243.124.249:50219] logged in with entity id 31120 at (-336.5, 51.0, 109.59154513406072)
-[02:56:48] [Server thread/INFO]: BANAN joined the game
-[02:59:08] [Server thread/INFO]: BANAN has completed the challenge [Hero of the Village]
-[02:59:08] [Server thread/INFO]: MineFrostId has completed the challenge [Hero of the Village]
-[03:12:27] [Server thread/WARN]: Endless_Paradex moved too quickly! -9.99521412757423,-0.2046003784434305,2.5159029493465255
-[03:14:40] [Server thread/WARN]: Endless_Paradex was kicked for floating too long!
-[03:14:40] [Server thread/INFO]: Endless_Paradex lost connection: Flying is not enabled on this server
-[03:14:40] [Server thread/INFO]: Endless_Paradex left the game
-[03:14:58] [Server thread/INFO]: Endless_Paradex[/10.243.104.90:59877] logged in with entity id 36576 at (-356.5768581681902, 73.00133597911214, 60.513145612046415)
-[03:14:58] [Server thread/INFO]: Endless_Paradex joined the game
-[03:20:45] [Server thread/WARN]: Mismatch in destroy block pos: gt{x=-14, y=97, z=-43} gt{x=-14, y=97, z=-44}
-[03:20:56] [Server thread/WARN]: Endless_Paradex was kicked for floating too long!
-[03:20:56] [Server thread/INFO]: Endless_Paradex lost connection: Flying is not enabled on this server
-[03:20:56] [Server thread/INFO]: Endless_Paradex left the game
-[03:21:36] [Server thread/INFO]: BANAN lost connection: Disconnected
-[03:21:36] [Server thread/INFO]: BANAN left the game
-[03:21:44] [Server thread/INFO]: BANAN[/10.243.124.249:61877] logged in with entity id 39685 at (-21.00039319043261, 100.0, -64.12038596192022)
-[03:21:44] [Server thread/INFO]: BANAN joined the game
-[03:24:54] [Server thread/INFO]: BANAN lost connection: Timed out
-[03:24:54] [Server thread/INFO]: BANAN left the game
-[03:24:57] [Server thread/INFO]: MineFrostId lost connection: Disconnected
-[03:24:57] [Server thread/INFO]: MineFrostId left the game
-[03:25:06] [Server thread/INFO]: BANAN[/10.243.124.249:62137] logged in with entity id 40661 at (-362.72255863158273, 69.0, 104.55868324039005)
-[03:25:06] [Server thread/INFO]: BANAN joined the game
-[03:26:01] [Server thread/INFO]: BANAN lost connection: Disconnected
-[03:26:01] [Server thread/INFO]: BANAN left the game
+[00:23:41] [ServerMain/INFO]: Building unoptimized datafixer
+[00:23:42] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:23:44] [ServerMain/INFO]: Loaded 7 recipes
+[00:23:44] [ServerMain/INFO]: Loaded 1179 advancements
+[00:23:45] [Server thread/INFO]: Starting minecraft server version 1.19
+[00:23:45] [Server thread/INFO]: Loading properties
+[00:23:45] [Server thread/INFO]: Default game type: SURVIVAL
+[00:23:45] [Server thread/INFO]: Generating keypair
+[00:23:45] [Server thread/INFO]: Starting Minecraft server on 10.243.62.13:25565
+[00:23:45] [Server thread/INFO]: Using default channel type
+[00:23:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:23:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:23:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:23:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:23:45] [Server thread/INFO]: Preparing level "world"
+[00:23:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:23:48] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[00:23:48] [Worker-Main-4/INFO]: Preparing spawn area: 0%
+[00:23:48] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:23:48] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[00:23:48] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[00:23:48] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[00:23:48] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:23:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[00:23:49] [Worker-Main-5/INFO]: Preparing spawn area: 3%
+[00:23:50] [Worker-Main-3/INFO]: Preparing spawn area: 55%
+[00:23:50] [Server thread/INFO]: Time elapsed: 4988 ms
+[00:23:50] [Server thread/INFO]: Done (5.256s)! For help, type "help"
+[00:25:20] [Server thread/INFO]: Vincent_A[/10.243.199.151:61892] logged in with entity id 113 at (-372.30000001192093, 64.0, 71.41205853537454)
+[00:25:20] [Server thread/INFO]: Vincent_A joined the game
+[00:26:16] [Server thread/INFO]: Vincent_A lost connection: Disconnected
+[00:26:16] [Server thread/INFO]: Vincent_A left the game
+[00:28:09] [Server thread/INFO]: Vincent_A[/10.243.199.151:56269] logged in with entity id 533 at (-372.30000001192093, 64.0, 71.41497185624226)
+[00:28:09] [Server thread/INFO]: Vincent_A joined the game
+[00:32:33] [Server thread/INFO]: Endless_Paradex[/10.243.104.90:59181] logged in with entity id 1549 at (-352.8166074543936, 65.25220334025373, 63.41417170656795)
+[00:32:33] [Server thread/INFO]: Endless_Paradex joined the game
+[00:33:34] [Server thread/INFO]: Endless_Paradex lost connection: Disconnected
+[00:33:34] [Server thread/INFO]: Endless_Paradex left the game
+[00:34:10] [Server thread/INFO]: Endless_Paradex[/10.243.104.90:59305] logged in with entity id 1830 at (-352.8166074543936, 65.25220334025373, 63.41417170656795)
+[00:34:10] [Server thread/INFO]: Endless_Paradex joined the game
+[00:35:10] [Server thread/INFO]: Endless_Paradex lost connection: Disconnected
+[00:35:10] [Server thread/INFO]: Endless_Paradex left the game
+[00:35:36] [Server thread/INFO]: Endless_Paradex[/10.243.104.90:59405] logged in with entity id 2067 at (-352.8166074543936, 65.25220334025373, 63.41417170656795)
+[00:35:36] [Server thread/INFO]: Endless_Paradex joined the game
+[00:36:27] [Server thread/INFO]: Endless_Paradex lost connection: Disconnected
+[00:36:27] [Server thread/INFO]: Endless_Paradex left the game
+[00:36:45] [Server thread/INFO]: Endless_Paradex[/10.243.104.90:59499] logged in with entity id 2276 at (-352.8166074543936, 65.25220334025373, 63.41417170656795)
+[00:36:45] [Server thread/INFO]: Endless_Paradex joined the game
+[00:37:19] [Server thread/INFO]: Endless_Paradex lost connection: Disconnected
+[00:37:19] [Server thread/INFO]: Endless_Paradex left the game
+[00:37:48] [Server thread/INFO]: Endless_Paradex[/10.243.104.90:59612] logged in with entity id 2480 at (-352.8166074543936, 65.25220334025373, 63.41417170656795)
+[00:37:48] [Server thread/INFO]: Endless_Paradex joined the game
+[00:38:10] [Server thread/INFO]: Vincent_A lost connection: Disconnected
+[00:38:10] [Server thread/INFO]: Vincent_A left the game
+[00:38:16] [Server thread/INFO]: Endless_Paradex lost connection: Disconnected
+[00:38:16] [Server thread/INFO]: Endless_Paradex left the game
+[00:38:22] [Server thread/INFO]: Endless_Paradex[/10.243.104.90:59661] logged in with entity id 2581 at (-352.8166074543936, 64.10709663960209, 63.41417170656795)
+[00:38:22] [Server thread/INFO]: Endless_Paradex joined the game
+[00:38:38] [Server thread/INFO]: Vincent_A[/10.243.199.151:55193] logged in with entity id 2901 at (-400.4261819174639, 64.0, 95.34623924245102)
+[00:38:38] [Server thread/INFO]: Vincent_A joined the game
+[00:39:22] [Server thread/INFO]: Endless_Paradex lost connection: Disconnected
+[00:39:22] [Server thread/INFO]: Endless_Paradex left the game
+[00:40:09] [Server thread/INFO]: Endless_Paradex[/10.243.104.90:59775] logged in with entity id 3256 at (-352.8166074543936, 64.02869663807621, 63.41417170656795)
+[00:40:09] [Server thread/INFO]: Endless_Paradex joined the game
+[00:40:36] [Server thread/INFO]: BANAN[/10.243.124.249:60238] logged in with entity id 3384 at (-368.2831642969426, 69.0, 112.13511553515303)
+[00:40:36] [Server thread/INFO]: BANAN joined the game
+[00:41:00] [Server thread/INFO]: Endless_Paradex lost connection: Disconnected
+[00:41:00] [Server thread/INFO]: Endless_Paradex left the game
+[00:41:08] [Server thread/INFO]: BANAN lost connection: Disconnected
+[00:41:08] [Server thread/INFO]: BANAN left the game
+[00:41:38] [Server thread/INFO]: BANAN[/10.243.124.249:63558] logged in with entity id 3630 at (-368.2831642969426, 69.0, 112.13511553515303)
+[00:41:38] [Server thread/INFO]: BANAN joined the game
+[00:41:38] [Server thread/INFO]: Endless_Paradex[/10.243.104.90:59879] logged in with entity id 3653 at (-352.8166074543936, 64.02869663807621, 63.41417170656795)
+[00:41:38] [Server thread/INFO]: Endless_Paradex joined the game
+[00:41:57] [Server thread/INFO]: BANAN lost connection: Disconnected
+[00:41:57] [Server thread/INFO]: BANAN left the game
+[00:42:11] [Server thread/INFO]: Endless_Paradex lost connection: Disconnected
+[00:42:11] [Server thread/INFO]: Endless_Paradex left the game
+[00:43:27] [Server thread/INFO]: BANAN[/10.243.124.249:63687] logged in with entity id 4058 at (-368.2831642969426, 69.0, 112.13511553515303)
+[00:43:27] [Server thread/INFO]: BANAN joined the game
+[00:44:27] [Server thread/INFO]: BANAN lost connection: Disconnected
+[00:44:27] [Server thread/INFO]: BANAN left the game
+[00:45:33] [Server thread/INFO]: Vincent_A lost connection: Disconnected
+[00:45:33] [Server thread/INFO]: Vincent_A left the game
