@@ -1,5 +1,5 @@
 #Minecraft server properties
-#Sat Aug 27 00:27:57 ICT 2022
+#Sat Aug 27 00:55:36 ICT 2022
 =\=\=\=\=\=\=
 enable-jmx-monitoring=false
 rcon.port=25575
@@ -20,13 +20,13 @@ network-compression-threshold=256
 max-tick-time=60000
 require-resource-pack=false
 use-native-transport=true
-max-players=20
+max-players=10
 online-mode=false
 enable-status=true
 allow-flight=false
 broadcast-rcon-to-ops=true
-view-distance=10
-server-ip=172.24.104.90
+view-distance=6
+server-ip=10.243.62.13
 resource-pack-prompt=
 allow-nether=true
 server-port=25565
