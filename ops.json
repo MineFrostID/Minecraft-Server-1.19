@@ -1,5 +1,11 @@
 [
   {
+    "uuid": "bc94504e-8253-318a-a7a4-bda362f4050b",
+    "name": "MineFrostId",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "e535bee3-e078-4892-ae4b-3562e34ae286",
     "name": "Endless_Paradex",
     "level": 4,
